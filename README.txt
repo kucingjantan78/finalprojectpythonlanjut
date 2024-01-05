@@ -30,8 +30,6 @@ tautan hasil pemindaian, dan status keamanan file.
 - Python 3.10.X
 - Modul Tkinter
 - Modul Requests
-- Modul Hashlib
-- Modul Os
 
 *Penting:*
 Pastikan untuk mengganti nilai api_key dengan kunci API yang valid dari VirusTotal sebelum menjalankan program.
